@@ -2,23 +2,6 @@
 
 A wireless robotic car control system built with the **LPC2129 Microcontroller** and **HC-05 Bluetooth Module**, enabling smartphone control via UART communication.
 
-## 📋 Table of Contents
-
-- [Overview](#overview)
-- [Project Features](#project-features)
-- [Hardware Components](#hardware-components)
-- [Software Requirements](#software-requirements)
-- [Project Structure](#project-structure)
-- [Circuit Diagram](#circuit-diagram)
-- [Installation & Setup](#installation--setup)
-- [Usage](#usage)
-- [Control Protocol](#control-protocol)
-- [Pinout Configuration](#pinout-configuration)
-- [Troubleshooting](#troubleshooting)
-- [Future Enhancements](#future-enhancements)
-- [Contributing](#contributing)
-- [License](#license)
-
 ## 📌 Overview
 
 This project demonstrates a complete implementation of a Bluetooth-controlled robotic car using embedded C programming on the LPC2129 ARM microcontroller. The car receives wireless commands from an Android smartphone through the HC-05 Bluetooth module and translates them into motor control signals via the L293D Motor Driver IC.
